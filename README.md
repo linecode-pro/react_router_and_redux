@@ -1,3 +1,5 @@
+## Как скачать и запустить приложение
+
 1) Скачать приложение по ссылке из GitHub:
 https://github.com/linecode-pro/react_router_and_redux
 
